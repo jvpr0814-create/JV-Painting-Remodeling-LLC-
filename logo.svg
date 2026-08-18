@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
+<defs>
+  <linearGradient id="roof" x1="0" x2="1"><stop offset="0" stop-color="#1261b5"/><stop offset="1" stop-color="#e31b23"/></linearGradient>
+</defs>
+<rect width="900" height="300" rx="24" fill="#08090b"/>
+<path d="M80 115 L205 35 L330 115" fill="none" stroke="url(#roof)" stroke-width="22" stroke-linecap="round"/>
+<path d="M112 108 L205 48 L298 108 V160 H112Z" fill="#fff"/>
+<path d="M205 82 V160 M155 105 H255" stroke="#111" stroke-width="13"/>
+<text x="90" y="235" font-family="Arial Black,Arial,sans-serif" font-size="105" font-weight="900" fill="#fff">JV</text>
+<text x="335" y="128" font-family="Arial Black,Arial,sans-serif" font-size="48" font-weight="900" fill="#fff">PAINTING &amp;</text>
+<text x="335" y="185" font-family="Arial Black,Arial,sans-serif" font-size="48" font-weight="900" fill="#e31b23">REMODELING LLC</text>
+<path d="M330 212 H790" stroke="#1261b5" stroke-width="7"/>
+<text x="335" y="255" font-family="cursive" font-size="31" fill="#fff">Quality Work. Every Time.</text>
+<path d="M285 120 l75 65" stroke="#e31b23" stroke-width="15" stroke-linecap="round"/>
+<path d="M365 185 l-22 -4 8 -20" fill="#e31b23"/>
+</svg>
